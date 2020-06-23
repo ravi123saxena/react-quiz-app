@@ -1,0 +1,15 @@
+.wrapper {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: column;
+}
+
+.buttonContainer {
+  display: flex;
+  width: 300px;
+  margin-top: 60px;
+  justify-content: space-evenly;
+  margin-right: 30px;
+  flex-direction: row;
+}
